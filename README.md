@@ -1,4 +1,4 @@
-# instagramAutoPost
+# instaPyPost
 A script to automate posting on Instagram using selenium, chrome and python
 
 ### This only works with Chrome as of now! If you want me to add scripts for FireFox, Safari or Opera shoot me an email: coddiw0mpl4@gmail.com
